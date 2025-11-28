@@ -14,7 +14,7 @@ This project recreates the classic arcade experience with smooth gameplay, origi
 
 
 - Classic Pac-Man gameplay on the original maze layout
-- Four unique ghosts with distinct behaviors:
+- Five unique ghosts with distinct behaviors:
   - Blinky (red) – chases Pac-Man directly
   - Pinky (pink) – ambushes ahead of Pac-Man
   - Inky (cyan) – complex flanking using Blinky’s position
@@ -25,6 +25,11 @@ This project recreates the classic arcade experience with smooth gameplay, origi
 - Score, high score, lives, and ready/start screens
 - Authentic sound effects and music (optional toggle)
 - Clean, well-commented code – perfect for learning game development or AI logic or just goofing around
+
+  Note:  Some bugs still remain in the game.  For instance you can get pacman stuck if you press up while going through the warp tunnel.
+  It's possible that ghosts may get stuck in a wall if a generated level has a dead end.  I think I've fixed that but I'm not confident.
+  This game was made for learning purposes and will never be sold and shouldn't be.  The audio assets are placeholder and should be replaced.
+  
 
 ## Requirements
 
