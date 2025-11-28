@@ -4,11 +4,10 @@ A fun, from-scratch Pac-Man clone written in Python using **Pygame**.
 
 This project recreates the classic arcade experience with smooth gameplay, original-like ghosts AI (with a bit of personality), power pellets, score tracking, lives, and that satisfying "waka-waka" sound.
 
-![screenshot]([screenshots/gameplay.png](https://github.com/user-attachments/assets/1e7e278a-88af-4a9f-b803-f8f27744d551))  
 
-![screenshot]([screenshots/gameplay.png](https://github.com/user-attachments/assets/2b51f853-69a4-4c14-933c-b5198c6d1590))
 
 <img width="891" height="487" alt="Image" src="https://github.com/user-attachments/assets/1e7e278a-88af-4a9f-b803-f8f27744d551" />
+
 <img width="895" height="989" alt="Image" src="https://github.com/user-attachments/assets/2b51f853-69a4-4c14-933c-b5198c6d1590" />
 
 
