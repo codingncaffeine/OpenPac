@@ -57,4 +57,18 @@ P – Pause / unpause
 M – Toggle sound on/off
 F12 - 5x pacman speed for testing
 
+Contributing
+Feel free to open issues or submit pull requests! Ideas for new features:
+
+Level editor
+Additional mazes
+Online leaderboards
+Different ghost AI modes (pure random, A* pathfinding, etc.)
+
+Enjoy the game and happy coding!
+Made with ❤️ and a lot of coffee by CodingNCaffeine
+I don't actually own the audio assets here so I'm not
+applying a license and don't recommend using this for
+a commercial game.  This is just for fun!
+
 
